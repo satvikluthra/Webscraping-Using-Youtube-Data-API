@@ -1,8 +1,6 @@
 
 # Webscraping Using Youtube Data API
 
-## Introduction
-
 In this project we will be scraping data for 200+ videos & then we will derive insights which keywords and videos are performing good on YouTube.
 
 Firstly, Creating a free account on Google Cloud Platform which will allow us to use YouTube Public Data API & Google Spreadsheets API. 
